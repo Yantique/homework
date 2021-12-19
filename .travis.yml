@@ -3,3 +3,5 @@ python:
   - "3.9"
 script:
   - pytest test.py
+notifications:
+  slack: yan-g851608:0tjeT3JggyZEmwdBnbY1G2UQ
