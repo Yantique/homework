@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/eritmeister/homework.svg?branch=main)](https://app.travis-ci.com/eritmeister/homework)
+[![Build Status](https://app.travis-ci.com/eritmeister/homework.svg?token=AK6vW6nCsBdKVdJS6DVt&branch=main)](https://app.travis-ci.com/eritmeister/homework)
 # ТЗ_3
 ## Часть 1
 #### 1) Реализовал функции чтения из файла, поиска минимума, максимума, суммы и произведения.
